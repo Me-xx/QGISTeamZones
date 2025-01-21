@@ -27,7 +27,7 @@ tags=QField, Windows, Linux, QFieldCloud, cloud, field, fieldwork, simple, colla
 
 homepage=https://github.com/Me-xx/QGISTeamZones
 tracker=https://github.com/Me-xx/QGISTeamZones/issues
-repository=https://github.com/Me-xx/QGISTeamZones
+repository=https://github.com/Me-xx/QGISTeamZones/tree/main
 category=Plugins
 icon=resources/icon.png
 # experimental flag
