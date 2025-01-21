@@ -26,7 +26,7 @@ changelog=
 tags=QField, Windows, Linux, QFieldCloud, cloud, field, fieldwork, simple, collaborative
 
 homepage=https://github.com/Me-xx/QGISTeamZones
-tracker=tbd
+tracker=https://github.com/Me-xx/QGISTeamZones/issues
 repository=https://github.com/Me-xx/QGISTeamZones
 category=Plugins
 icon=resources/icon.png
