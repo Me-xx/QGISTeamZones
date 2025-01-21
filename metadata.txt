@@ -25,9 +25,9 @@ changelog=
 # Tags are comma separated with spaces allowed
 tags=QField, Windows, Linux, QFieldCloud, cloud, field, fieldwork, simple, collaborative
 
-homepage=https://tbd
+homepage=https://github.com/Me-xx/QGISTeamZones
 tracker=tbd
-repository=tbd
+repository=https://github.com/Me-xx/QGISTeamZones
 category=Plugins
 icon=resources/icon.png
 # experimental flag
