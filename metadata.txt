@@ -1,0 +1,40 @@
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py
+# is no longer supported since version 2.0.
+
+# Mandatory items:
+
+[general]
+name=TeamArea Creator
+qgisMinimumVersion=3.22
+description=Create 2 Layers for each Team, Collecting Things like garbage
+version=v0.1
+author=DaMo
+email=qgis.nosp@me-xx.de
+
+# End of mandatory metadata
+
+# Recommended items:
+
+changelog=
+    First try of a plugin, enjoy and contribute.
+
+
+# Tags are comma separated with spaces allowed
+tags=QField, Windows, Linux, QFieldCloud, cloud, field, fieldwork, simple, collaborative
+
+homepage=https://tbd
+tracker=tbd
+repository=tbd
+category=Plugins
+icon=resources/icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+about= See description
+    
