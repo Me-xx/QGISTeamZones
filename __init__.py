@@ -3,6 +3,6 @@
 
 
 def classFactory(iface):
-    from .TeamArea import TeamZonesPlugin
+    from .team_zones import TeamZonesPlugin
 
     return TeamZonesPlugin(iface)
