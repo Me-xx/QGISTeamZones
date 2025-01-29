@@ -9,8 +9,8 @@
 [general]
 name=TeamArea Creator
 qgisMinimumVersion=3.22
-description=Create 2 Layers for each Team, Collecting Things like garbage
-version=v0.1
+description=Create 3 Layers for each Team, Collecting Things like garbage and trace their route. Export collectionMarks to Excel
+version=v0.2
 author=DaMo
 email=qgis.nosp@me-xx.de
 
@@ -19,7 +19,7 @@ email=qgis.nosp@me-xx.de
 # Recommended items:
 
 changelog=
-    First try of a plugin, enjoy and contribute.
+    First productive plugin, enjoy and contribute.
 
 
 # Tags are comma separated with spaces allowed
