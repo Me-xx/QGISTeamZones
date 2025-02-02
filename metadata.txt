@@ -9,8 +9,8 @@
 [general]
 name=TeamArea Creator
 qgisMinimumVersion=3.22
-description=Create 3 Layers for each Team, Collecting Things like garbage and trace their route. Export collectionMarks to Excel
-version=v0.2
+description=Create 3 Layers for each Team, Collecting Things like garbage and trace their route. Export collectionMarks to Excel.
+version=v0.3
 author=DaMo
 email=qgis.nosp@me-xx.de
 
@@ -31,10 +31,10 @@ repository=https://github.com/Me-xx/QGISTeamZones/tree/main
 category=Plugins
 icon=resources/icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
 
-about= See description
+about=Create 3 Layers for each Team, Collecting Things like garbage and trace their route. Export collectionMarks to Excel
     
